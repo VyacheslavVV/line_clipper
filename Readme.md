@@ -34,11 +34,11 @@ Compile and run the project using C++ compiler (tested with Visual Studio 2019).
 
 ## 🧩 Example Output
 
-L4: (17; 12) - (22; 11)
-Has intersection with (8; 7) - (8; 13) no
-Has intersection with (19; 7) - (19; 13) yes
-intersection at (19; 11)
-newL4: (19; 11) - (19; 13)
+    L4: (17; 12) - (22; 11)
+    Has intersection with (8; 7) - (8; 13) no
+    Has intersection with (19; 7) - (19; 13) yes
+    intersection at (19; 11)
+    newL4: (19; 11) - (19; 13)
 
 
 Demonstrates how the algorithm detects intersections and trims the line segment inside the viewport.
