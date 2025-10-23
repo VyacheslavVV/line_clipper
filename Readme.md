@@ -1,4 +1,4 @@
-Line Clipping Algorithm (C++)
+# Line Clipping Algorithm (C++)
 
 A small demo project implementing a **2D line clipping algorithm** for computer graphics.
 
